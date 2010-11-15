@@ -11,7 +11,7 @@ Before:
 
 After:
     𝑓 Add(b, c) { return b + c; };
-    setTimeout(𝑓(){ console.log("wooot") }, 10);
+    setTimeout(𝑓{ console.log("wooot") }, 10);
 
 That's it.
 
