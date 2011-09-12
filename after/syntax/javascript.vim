@@ -12,6 +12,7 @@ syntax keyword javaScriptReturn return conceal cchar=↵
 
 hi link javaScriptFunctionNoParams javaScriptFunction
 hi! link Conceal javaScriptFunction
+hi link javaScriptReturn javaScriptStatement
 
 set conceallevel=2
 
